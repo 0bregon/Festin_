@@ -1,1 +1,1 @@
-# Festin_
+Este proyecto es una aplicación web responsiva para la gestión de alquiler de artículos y servicios para eventos. Permite a los usuarios explorar un catálogo organizado por categorías, visualizar paquetes de eventos, consultar servicios disponibles y realizar solicitudes de reserva mediante formularios interactivos. La plataforma busca digitalizar el proceso de reservas, reduciendo el uso de métodos manuales como WhatsApp y mejorando la organización y control de pedidos en la empresa Festín.
